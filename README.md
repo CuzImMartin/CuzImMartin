@@ -11,7 +11,7 @@
 <br>
 
 - 👋 Hi, I’m Martin
-- 💼 I'm a frontend & backend web-developer from austria.
+- 💼 I'm a frontend & backend webdeveloper from austria.
 - 🔭 I’m currently working on **InTrouble.de** & **NeruxVace.net**
 - 📫 How to reach me **cuzimmartin@gmail.com**
 
