@@ -12,8 +12,8 @@
 
 - 👋 Hi, I’m Martin
 - 💼 I'm a frontend & backend webdeveloper from austria.
-- 🔭 I’m currently working on **InTrouble.de** & **NeruxVace.net**
-- 📫 How to reach me **cuzimmartin@gmail.com**
+- 🔭 I’m currently working on **SteerUp**
+- 📫 How to reach me **request@cuzimmartin.dev**
 
 <br/>
 <br>
