@@ -1,4 +1,4 @@
-<h1> Hello Crafters! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Heyho! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m Martin
 - 💼 I'm a frontend & backend webdeveloper from austria.
-- 🔭 I’m currently working on **SteerUp**
+- 🔭 I’m currently working on **Dashio**
 - 📫 How to reach me **request@cuzimmartin.dev**
 
 <br/>
