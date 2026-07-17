@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Austria+🇦🇹;Building+open+transit+data+for+Europe+🚆;TypeScript+·+Vue+·+Java+·+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Austria;Building+open+transit+data+for+Europe;TypeScript+·+Vue+·+Java+·+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -123,8 +123,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuzImMartin&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF8C00&icon_color=FF8C00&text_color=888888&ring_color=FF8C00" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuzImMartin&layout=compact&hide_border=true&bg_color=00000000&title_color=FF8C00&text_color=888888" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CuzImMartin&theme=gruvbox" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CuzImMartin&theme=gruvbox" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -135,4 +135,3 @@
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF8C00,100:FF6B00&height=120&section=footer" width="100%" />
-
